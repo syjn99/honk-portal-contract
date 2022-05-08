@@ -7,7 +7,7 @@ const main = async () => {
 
   const honkContractFactory = await hre.ethers.getContractFactory("HonkPortal");
   const honkContract = await honkContractFactory.deploy({
-    value: hre.ethers.utils.parseEther("0.1"),
+    value: hre.ethers.utils.parseEther("0.01"),
   });
   await honkContract.deployed();
 
