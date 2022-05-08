@@ -13,7 +13,7 @@ https://buildspace.so/p/build-solidity-web3-app
 1. 유저가 닉네임을 직접 등록할 수 있습니다. 닉네임은 변경 가능합니다.
 2. 전체 Honk의 수와, 각 유저 별로 얼마나 Honk 했는지 확인할 수 있습니다.
 
-이더리움 테스트넷 Rinkeby에 배포했습니다. 이더스캔 링크는 [여기](https://google.com)에서 확인 가능합니다.
+이더리움 테스트넷 Rinkeby에 배포했습니다. 이더스캔 링크는 [여기](https://rinkeby.etherscan.io/address/0x60A21265416Ebb7046a8301E3596D73D285ea221)에서 확인 가능합니다.
 
 프론트엔드는 [여기](https://google.com)를 참고해주세요.
 

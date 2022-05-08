@@ -85,6 +85,10 @@ contract HonkPortal {
     return string(id);
   }
 
+  function getHasNickname(address _address) public view returns (bool) {
+    return hasNickname[_address];
+  }
+
   function registerNickname(string memory _nickname) public {
     require( !(hasNickname[msg.sender]), "You already have your own nickname!" );
 
