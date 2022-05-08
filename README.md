@@ -1,15 +1,20 @@
-# Basic Sample Hardhat Project
+# Honk Portal
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### The goose cries like Honk Honk!
 
-Try running some of the following tasks:
+<img src="./title.png" width="200px" height="200px" title="Honk!"/>
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://buildspace.so/p/build-solidity-web3-app
+
+위 튜토리얼을 기반으로 일부 기능을 추가하여 완성했습니다.
+
+## 추가된 기능
+
+1. 유저가 닉네임을 직접 등록할 수 있습니다. 닉네임은 변경 가능합니다.
+2. 전체 Honk의 수와, 각 유저 별로 얼마나 Honk 했는지 확인할 수 있습니다.
+
+이더리움 테스트넷 Rinkeby에 배포했습니다. 이더스캔 링크는 [여기](https://google.com)에서 확인 가능합니다.
+
+프론트엔드는 [여기](https://google.com)를 참고해주세요.
+
+최종적으로 완성된 페이지는 [여기](google.com) 에서 확인 가능합니다.
